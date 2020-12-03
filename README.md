@@ -21,3 +21,4 @@ Arguments:
   -c  --rule-content  Filter string must match yara rules content
 ```
 
+Filters could be string or regex. If so, your pattern have to be enclosed by / /
